@@ -1,4 +1,4 @@
-package Assignments;
+package WeeklyAssignments;
 
 public class FrequencyOfElements {
 
